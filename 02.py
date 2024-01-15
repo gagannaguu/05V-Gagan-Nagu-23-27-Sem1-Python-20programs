@@ -31,6 +31,7 @@ class Stack:
 # Example usage:
 stack = Stack()
 
+
 # Push elements onto the stack
 stack.push(10)
 stack.push(20)
