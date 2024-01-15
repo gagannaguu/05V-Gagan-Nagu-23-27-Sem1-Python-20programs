@@ -50,4 +50,3 @@ print(f"Is the stack empty? {stack.is_empty()}")
 
 # Try popping from an empty stack
 stack.pop()
-
