@@ -28,6 +28,7 @@ person2 = Person(name="Alice Smith", country="Canada", date_of_birth="1985-09-21
 print("Details of Person 1:")
 person1.display_details()
 
+
 print("\nDetails of Person 2:")
 person2.display_details()
 
