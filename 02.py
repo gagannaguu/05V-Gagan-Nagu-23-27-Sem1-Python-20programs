@@ -7,7 +7,7 @@ class Stack:
         """Check if the stack is empty."""
         return len(self.stack) == 0
 
-    def push(self, element):
+    def push(self, element): 
         """Push an element onto the stack."""
         self.stack.append(element)
         print(f"Element {element} pushed onto the stack.")
