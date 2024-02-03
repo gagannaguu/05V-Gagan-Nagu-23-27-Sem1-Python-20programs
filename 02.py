@@ -10,7 +10,7 @@ class Stack:
     def push(self, element): 
         """Push an element onto the stack."""
         self.stack.append(element)  
-        print(f"Element {element} pushed onto the stack.")
+        print(f"Element {element} pushed onto the stack.") 
  
     
     def pop(self):  
