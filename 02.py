@@ -20,7 +20,7 @@ class Stack:
             print(f"Element {popped_element} popped from the stack.")
             return popped_element
         else:
-            print("Stack is empty. Cannot pop.")
+            print("Stack is empty. Cannot pop.") 
 
     def peek(self):
         """Return the top element of the stack without removing it."""
