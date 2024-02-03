@@ -13,7 +13,7 @@ class Stack:
         print(f"Element {element} pushed onto the stack.")
 
     
-    def pop(self):
+    def pop(self): 
         """Pop the top element from the stack."""
         if not self.is_empty():
             popped_element = self.stack.pop()
