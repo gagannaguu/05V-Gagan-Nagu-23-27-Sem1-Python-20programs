@@ -6,7 +6,7 @@ class Stack:
     def is_empty(self):
         """Check if the stack is empty."""
         return len(self.stack) == 0 
-
+ 
     def push(self, element): 
         """Push an element onto the stack."""
         self.stack.append(element) 
