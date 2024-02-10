@@ -24,6 +24,7 @@ class Person:
 person1 = Person(name="John Doe", country="USA", date_of_birth="1990-05-15")
 person2 = Person(name="Alice Smith", country="Canada", date_of_birth="1985-09-21")
 
+
 # Display details and age of the persons
 print("Details of Person 1:")
 person1.display_details()
