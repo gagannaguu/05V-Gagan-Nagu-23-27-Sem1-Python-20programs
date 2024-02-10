@@ -29,7 +29,6 @@ print("Details of Person 1:")
 person1.display_details()
 
 
-
 print("\nDetails of Person 2:")
 person2.display_details()
 
