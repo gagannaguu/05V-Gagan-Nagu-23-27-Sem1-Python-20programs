@@ -21,6 +21,7 @@ class Person:
         print(f"Age: {self.calculate_age()} years")
 
 # Example usage:
+
 person1 = Person(name="John Doe", country="USA", date_of_birth="1990-05-15")
 person2 = Person(name="Alice Smith", country="Canada", date_of_birth="1985-09-21")
 
