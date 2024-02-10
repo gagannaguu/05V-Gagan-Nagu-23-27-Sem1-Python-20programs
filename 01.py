@@ -13,6 +13,7 @@ class Person:
         age = today.year - birthdate.year - ((today.month, today.day) < (birthdate.month, birthdate.day))
         return age
 
+    
     def display_details(self):
         """Display details of the person."""
         print(f"Name: {self.name}")
